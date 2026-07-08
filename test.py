@@ -39,3 +39,6 @@ with open("prcp_output.csv", "w", newline="") as csvfile:
                     variable,
                     start_year,
                     end_year
+                ])
+
+                # youre a chud
